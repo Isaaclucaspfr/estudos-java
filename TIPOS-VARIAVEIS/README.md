@@ -1,18 +1,16 @@
-## Getting Started
+## Variaveis
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Tipo
+Byte -128 até 127\
+short -32.768 até 32.767\
+int  XXXXXXX - XXXX \
+long numeros muito grandes
 
-## Folder Structure
+## Frações
+Float - 4bytes- Declarar (F ou f) ao final da variavel\
+Double - 8bytes - mais comum, mais preciso
 
-The workspace contains two folders by default, where:
+# Declaração de variaveis
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+tipo de dados + identificação + valor atribuido\
+int anoFabricacao = 2023;
